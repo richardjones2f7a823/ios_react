@@ -346,3 +346,7 @@ RCT_ENUM_CONVERTER(UIBackgroundFetchResult, (@{
 
 @end
 
+/**
+ * Type deprecated in iOS 10.0
+ * TODO: This method will be removed in the next major version
+ */
